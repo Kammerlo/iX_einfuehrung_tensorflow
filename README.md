@@ -4,7 +4,14 @@ Dieses Repository stellt den Code für den Artikel "eine Einführung in TensorFl
 
 https://shop.heise.de/katalog/mit-dem-strom-schwimmen
 
-# 
+# Installation
+
+Benötigt wird Python.
+
+Benötigte Packete:
+- Tensorflow
+- Numpy
+- Matplotlib
 
 # Author
 Thomas Kammerlocher
